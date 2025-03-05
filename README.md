@@ -1,0 +1,1 @@
+jsdeliverとかで使うときは、Publicに変えよう。
